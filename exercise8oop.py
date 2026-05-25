@@ -51,6 +51,8 @@ print("---------------------Data structure----------------------")
 # HELPER: find_book(name)
 print("--------------------- find_book(name)--------")
 # ============================================================
+books = []
+
 def find_book(name):
     for book in books:
         if book["book_name"].lower() == name.lower():
