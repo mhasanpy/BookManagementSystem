@@ -1,4 +1,16 @@
-
+# Exercise 1: Create and Print a List
+# Exercise 2: Create and Access a Dictionary
+# Exercise 3: Create a List of Dictionaries
+# Exercise 4: Loop Through a List of Dictionaries
+# Exercise 5: Add Data into that List of Dictionaries 
+# Using append()
+# Exercise 6: Search for an Item Using a Loop
+# Exercise 7: Update a Dictionary Value
+# Exercise 8: Create a Function
+# Exercise 9: Return a Value from a Function
+# Exercise 10: Build a Menu with a While Loop
+# Exercise 11: Use python Enumerate into that list of 
+# dictionaries and print the list of dictionaries as a table
 # DATA STRUCTURE
 print("---------------------Data structure----------------------")
 #
