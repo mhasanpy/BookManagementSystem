@@ -19,3 +19,15 @@ books = [
     {"book_name": "Clean Code",     "book_qty": 5},
     {"book_name": "The Pragmatic",  "book_qty": 8},
 ]
+
+===== Book Inventory Menu =====
+1. Add Book
+2. View All Books
+3. Search Book
+4. Update Quantity
+5. Delete Book
+6. Exit
+Enter your choice: 1
+Enter book name: The Clean Coder
+Enter quantity: 3
+✅ Book added successfully!
